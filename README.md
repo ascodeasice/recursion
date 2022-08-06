@@ -1,2 +1,2 @@
 # recursion
-Practice writing basic recursion functions, such as Fibonacci and merge sort.
+Practice writing basic recursion functions, such as fibonacci and merge sort.
